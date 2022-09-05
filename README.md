@@ -14,7 +14,7 @@ The COINHASH Token will be created in order to be distributed to the world. In o
 
 ### How to purchase and view
 
-- You can acquire HOMELAND token by performing the activities that are in the Homeland Community Indonesia.
+- You can acquire COINHASH token by performing the activities that are in the available country.
 
 
 [Access our website and click on I want to participate.](https://token.hasindonesia.id/)
