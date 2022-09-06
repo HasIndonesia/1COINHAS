@@ -6,7 +6,7 @@ Token TRC20 utility to be distributed among the world.
 - Symbol: CHS
 - Decimal places: 8
 - Total supply: Dynamic as tokens are distributed
-- [Token link on the mainnet network](https://tronscan.org/#/token20/TC6E2KxJfYtPXVo7AHTKFpjfzjy5hzSwYL)
+- [Token link on the mainnet network](https://tronscan.org/#/token20/TNXXDf3BQTGKGfZ7DQNEi5X7EtPB3kCakE)
 
 ### Overview
 
