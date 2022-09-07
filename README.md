@@ -1,4 +1,4 @@
-# <img src="logo/COINHASH-LOGO.png" alt="CHS" width="100px">
+# <img src="logo/1COINHAS-LOGO.png" alt="1COINHAS" width="100px">
 
 Token TRC20 utility to be distributed among the world.
 
